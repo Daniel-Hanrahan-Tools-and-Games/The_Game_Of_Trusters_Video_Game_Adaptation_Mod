@@ -6,4 +6,4 @@
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Game_Of_Trusters">The_Game_Of_Trusters Repository Page</a>
 
-<a href="https://daniel-hanrahan-tools-and-games.github.io/The_Game_Of_Trusters/">The_Game_Of_Trusters Read Page</a>
+<a href="https://daniel-hanrahan-tools-and-games.github.io/The_Game_Of_Trusters/">The_Game_Of_Trusters ReadMe Page</a>
